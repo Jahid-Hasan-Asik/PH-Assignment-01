@@ -11,7 +11,8 @@
   font-weight: <weight>;
 }
 
-          /* nav Styele*/
+
+         /* nav Styele*/
 nav{
    display: flex;
    justify-content: space-around;
@@ -30,11 +31,15 @@ nav li a{
    color: #4E47FF;
    font-weight: 900;
 }
-           /* Header Styele*/
+
+
+          /* Header Styele*/
 .header{
       background-image: url('./Assets/Hero-bg.png')
-   }        
-         /* shared Styele*/
+   }    
+   
+   
+      /* shared Styele*/
 .btn-primary{
    background-color: #4E47FF;
    color: #FFFFFF;
@@ -52,7 +57,9 @@ nav li a{
    font-size: 60px;
    font-weight: bold;
 }
-            /* color Styele*/
+
+
+       /* color Styele*/
 .theme{
    color: #4E47FF;
 }
@@ -90,6 +97,7 @@ header li a{
     text-decoration: none;
 }
 
+
          /*about Styele*/
 .action-bg2{
    background-color:#f5f8ff;
@@ -107,6 +115,8 @@ main{
 .img{
    border-radius: 48px;
 }
+
+
       /*users Styele*/
 .users{
    border-radius: 24px;
@@ -156,6 +166,8 @@ font-family: "Raleway", sans-serif;
 .reviewer{
    display: flex;
 }
+
+
          /* main fotter Styele*/
 footer{
    padding: 130px 230px;
@@ -178,6 +190,8 @@ footer input,textarea{
    border: none;
    font-family: "Raleway", sans-serif;
 }
+
+
          /* Footer style*/
 
 footer{
