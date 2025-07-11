@@ -29,7 +29,10 @@ nav li a{
    text-decoration: none;
 }
 
-
+.logo{
+   color: #4E47FF;
+   font-weight: 900;
+}
            /* Header Styele*/
   
 .header{
@@ -146,7 +149,7 @@ color: #B3B3B3;
 }
 
 .feedback{
-   padding:30px; border-radius: 05px;
+   padding:30px; border-radius: 12px;
    box-shadow: 0px 6px 50px 0px #c9c9c9;
 }
 .feedback-title{
@@ -157,10 +160,19 @@ color: #B3B3B3;
     font-family: "Raleway", sans-serif;
 }
 
+.feedback-titles{
+font-family: "Raleway", sans-serif;
+}
+
+.feedback-description{
+font-family: "Raleway", sans-serif;
+}
+
+
 .feedback-container{
    display: flex;
    gap:20px ;
-  
+  font-family: "Raleway", sans-serif;
 }
 
 .reviewer{
